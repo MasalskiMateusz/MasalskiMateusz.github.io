@@ -13,3 +13,5 @@ Menu
   2456||2345
 
 Modyfikacja nr 3.
+
+-[Link do README](README.md)
